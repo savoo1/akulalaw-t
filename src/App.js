@@ -5,8 +5,10 @@ function App() {
   return (
     <div>
       <Nav></Nav>
-      <Button variant="primiary">test2</Button>
       <div className="bg-black h-[50vh]"></div>
+      <Button variant="primiary" className="p-[20px] bg-[yellow]">
+        dasdsa
+      </Button>
     </div>
   );
 }
