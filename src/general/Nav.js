@@ -17,7 +17,7 @@ export default function Nav() {
               <div>dsa</div>
               <div>
                 <a href="/" className="items-center flex gap-[20px]">
-                  <span className="font-bold text-[clamp(1.3rem,1.3vw,1.8rem)]">
+                  <span className="font-montaga font-bold text-[clamp(1.3rem,1.3vw,1.8rem)]">
                     Call Us Today!dsa
                   </span>
                   <span className="text-[1.5rem]">844-299-5003</span>
